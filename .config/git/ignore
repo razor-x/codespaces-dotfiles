@@ -1,0 +1,10 @@
+.*~
+.env
+.directory
+*.latexmain
+.nvmrc
+.python-version
+.ruby-version
+.tern-port
+repos.json
+.wakatime-project
